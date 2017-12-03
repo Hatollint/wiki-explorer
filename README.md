@@ -59,10 +59,10 @@ Now you can go to the site at http://localhost:8081/ or http://wiki-explorer.dev
 ## <a id="contr"></a>Making contribution
 * [Fork](#contr_fork)
 * [Configuring Git](#contr_git_conf)
-* [Configuring Git](#contr_code)
-* [Coding](#contr_pull)
-* [Sending Pull Request](#contr_pull_rec)
-* [Recycle Pull Request](#contr_get_out)
+* [Coding](#contr_code)
+* [Sending Pull Request](#contr_pull)
+* [Recycle Pull Request](#contr_pull_rec)
+* [Get out after yourself](#contr_get_out)
 
 
 The first thing to do is create an account on GitHub (if you do not have one yet). Then you should read the rules of participation in the development for the project you selected. These rules are usually found in a file CONTRIBUTING.md in the root of the repository. This repository doesn't have it.
